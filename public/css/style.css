@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: transparent;
+    padding-left: 0;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #fafafa;
+}
